@@ -10,3 +10,4 @@
 - `7-everybody`: Adds execute permission for the owner, group, and others on `hello`.
 - `8-James_Bond`: Sets the permissions of `hello` so the owner and group have none, while others have read, write, and execute.
 - `9-John_Doe`: Sets the mode of `hello` to `753` (rwxr-x-wx).
+- `10-mirror_permissions`: Sets the mode of `hello` to match the mode of `olleh`.
