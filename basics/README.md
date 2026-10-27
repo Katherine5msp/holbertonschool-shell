@@ -11,3 +11,7 @@ This script displays the contents list of the current directory.
 ## 2. There is no place like home
 
 This script changes the working directory to the user's home directory.
+
+## 3. The long format
+
+This script displays the current directory contents in long format.
