@@ -14,3 +14,4 @@
 - `11-directories_permissions`: Adds execute permission for the owner, group, and others to all immediate subdirectories of the current directory.
 - `12-directory_permissions`: Creates a directory named `my_dir` with permissions `751`.
 - `13-change_group`: Changes the group owner of the file `hello` to `school`.
+- `14-change_owner_and_group`: Changes the owner to `vincent` and the group owner to `staff` for all non-hidden entries in the current directory.
