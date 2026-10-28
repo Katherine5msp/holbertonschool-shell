@@ -9,3 +9,4 @@
 - `6-third_line`: Displays the third line of the file `iacta`.
 - `7-file`: Creates a file with a special name containing `Best School` followed by a newline.
 - `7-file`: Creates a file with a special name containing `Best School` followed by a newline.
+- `8-cwd_state`: Writes the output of `ls -la` to `ls_cwd_content`, overwriting the file if it already exists.
