@@ -5,3 +5,4 @@
 - `2-path`: Adds `/action` to the end of the `PATH` environment variable.
 - - `3-paths`: Counts the entries in `PATH` that contain `/`.
 - `4-global_variables`: Lists all environment variables.
+- `5-local_variables`: Lists all local variables, environment variables, and shell functions.
