@@ -11,3 +11,4 @@
 - `8-true_knowledge`: Prints the value of `TRUEKNOWLEDGE` plus 128.
 - `9-divide_and_rule`: Prints `POWER` divided by `DIVIDE`.
 - `10-love_exponent_breath`: Prints `BREATH` raised to the power `LOVE`.
+- `11-binary_to_decimal`: Converts the `BINARY` environment variable from base 2 to base 10.
